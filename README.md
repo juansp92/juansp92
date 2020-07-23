@@ -1,4 +1,6 @@
-### Hi there 👋
+### Currently training at @codeworks
+### Front-end: React, Angular, React Native.
+### Back-end: Express, Koa
 
 <!--
 **juansp92/juansp92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

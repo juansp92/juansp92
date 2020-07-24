@@ -1,7 +1,7 @@
-### Currently training at @codeworks
-### MVC pattern design, PWA, Unit testing.
-### Front-end: React, Angular, React Native.
-### Back-end: Express, Koa, Postgress, Sequelize, MongoDB, Mongoose.
+#### Currently training at @codeworks
+#### MVC pattern design, PWA, Unit testing.
+#### Front-end: React, Angular, React Native.
+#### Back-end: Express, Koa, Postgress, Sequelize, MongoDB, Mongoose.
 
 <!--
 **juansp92/juansp92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

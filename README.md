@@ -1,6 +1,6 @@
 #### Currently training at @codeworks
 #### MVC pattern design, PWA, Unit testing.
-#### Front-end: React, Angular, React Native.
+#### Front-end: React, Angular, React Native, GraphQL, JavaScript(ES6), TypeScript, CSS3, HTML5
 #### Back-end: Express, Koa, Postgress, Sequelize, MongoDB, Mongoose.
 
 <!--

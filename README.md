@@ -1,7 +1,6 @@
 #### Currently training at @codeworks
-#### MVC pattern design, PWA, Unit testing.
-#### Front-end: React, Angular, React Native, GraphQL, RESTful API, JavaScript(ES6), TypeScript, CSS3, HTML5.
-#### Back-end: Express, Koa, Postgress, Sequelize, MongoDB, Mongoose, NodeJS.
+#### Passionate about learning all I can
+#### Time and effort make the master 💪
 
 <!--
 **juansp92/juansp92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

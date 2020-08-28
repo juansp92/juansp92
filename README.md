@@ -1,5 +1,4 @@
-#### Currently training at @codeworks
-#### Passionate about learning all I can
+#### Passionate about programming and learning
 #### Time and effort make the master 💪
 
 <!--
